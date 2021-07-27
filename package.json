@@ -1,0 +1,28 @@
+{
+  "name": "trackemployees",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjorissen/TrackEmployees.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "James Jorissen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesjorissen/TrackEmployees/issues"
+  },
+  "homepage": "https://github.com/jamesjorissen/TrackEmployees#readme"
+}
