@@ -235,7 +235,7 @@ function addADepartment() {
     });
 };
 
-function updateRole() {
+function updateEmployee() {
     connection.query('SELECT * FROM employee', function (err, result) {
         if (err) throw (err);
         inquirer.prompt([
